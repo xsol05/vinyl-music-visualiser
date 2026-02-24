@@ -2,6 +2,8 @@
 
 🎵 **Visualise your music here!** https://magdelinehuang.com/vinyl-music-visualiser
 
+(note: only works on desktop)
+
 ---
 
 I vibe coded this vinyl music visualiser app to visualise any music you want!
