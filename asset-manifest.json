@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vinyl-music-visualiser/static/css/main.e5c4224e.css",
+    "main.js": "/vinyl-music-visualiser/static/js/main.b38e3cc5.js",
+    "static/js/453.7bac039c.chunk.js": "/vinyl-music-visualiser/static/js/453.7bac039c.chunk.js",
+    "index.html": "/vinyl-music-visualiser/index.html",
+    "main.e5c4224e.css.map": "/vinyl-music-visualiser/static/css/main.e5c4224e.css.map",
+    "main.b38e3cc5.js.map": "/vinyl-music-visualiser/static/js/main.b38e3cc5.js.map",
+    "453.7bac039c.chunk.js.map": "/vinyl-music-visualiser/static/js/453.7bac039c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5c4224e.css",
+    "static/js/main.b38e3cc5.js"
+  ]
+}
